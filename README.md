@@ -1,0 +1,4 @@
+# ssm
+ssm项目进行时所需配置文件
+一个为ssm所需的逆向工程根据数据库生成mapper及pojo，生成的pojo不是example的都需要实现序列化
+另一个为maven父子项目的模板，内包括ssm的配置文件及项目所需jar包的pom文件
